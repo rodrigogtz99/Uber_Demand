@@ -22,6 +22,6 @@ To enhance the predictive capabilities of the project, a machine learning model 
 
 ## Project Visualization
 
-To explore the results of this project, you can view the visualizations created in Tableau by following this [link](#(https://public.tableau.com/app/profile/rodrigo.gutierrez.garcia/viz/UberDemandModelNYC/Story1?publish=yes)). These visualizations provide insights into the predicted demand, driver requirements, and hot spots across NYC neighborhoods.
+To explore the results of this project, you can view the visualizations created in Tableau by following this [link](https://public.tableau.com/app/profile/rodrigo.gutierrez.garcia/viz/UberDemandModelNYC/Story1?publish=yes). These visualizations provide insights into the predicted demand, driver requirements, and hot spots across NYC neighborhoods.
 
 Feel free to explore the code, datasets, and visualizations provided in this repository to gain a deeper understanding of the project and its findings. If you have any questions or feedback, please don't hesitate to reach out. Your input is highly appreciated.
